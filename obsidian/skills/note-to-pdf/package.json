@@ -1,0 +1,20 @@
+{
+  "name": "note-to-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "katex": "~0.18.7",
+    "markdown-it": "~15.0.2",
+    "markdown-it-texmath": "~1.0.0",
+    "puppeteer": "^25.11.0",
+    "puppeteer-core": "~25.11.0"
+  }
+}
